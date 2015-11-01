@@ -1,3 +1,5 @@
 #!/bin/sh
 
-make
+R --version
+
+Rscript test.r

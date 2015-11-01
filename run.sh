@@ -1,5 +1,3 @@
 #!/bin/sh
-
-
-./test
+r test.r
 
