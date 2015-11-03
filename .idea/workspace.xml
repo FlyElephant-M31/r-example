@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e53f38f-f865-4cd7-bf08-97a004bab23f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.r" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contributors.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.cpp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sh" afterPath="$PROJECT_DIR$/build.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run.sh" afterPath="$PROJECT_DIR$/run.sh" />
-    </list>
+    <list default="true" id="7e53f38f-f865-4cd7-bf08-97a004bab23f" name="Default" comment="" />
     <ignored path="r-example.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -463,12 +455,12 @@
       <created>1446361509045</created>
       <option name="number" value="Default" />
       <updated>1446361509045</updated>
-      <workItem from="1446361510556" duration="549000" />
+      <workItem from="1446361510556" duration="655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="549000" />
+    <option name="totallyTimeSpent" value="655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
