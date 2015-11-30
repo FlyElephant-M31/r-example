@@ -2,4 +2,5 @@
 uname -a
 octave -v
 octave test.m
-octave 1/Go_MakeTrain.m
+cd 1
+octave Go_MakeTrain.m
