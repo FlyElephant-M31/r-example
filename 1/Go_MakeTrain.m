@@ -74,3 +74,5 @@ max_k = k - 1;
 Y3 = srnfwd(best_srn_net, U3, nlength);
 esr_test = error_success_rate(T3, Y3);
 esr_test
+
+dlmwrite('../result.dat', esr_test);
