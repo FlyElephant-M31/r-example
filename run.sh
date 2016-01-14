@@ -1,2 +1,2 @@
 #!/bin/sh
-octave test.m
+Rscript test.r
